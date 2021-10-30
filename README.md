@@ -21,6 +21,14 @@ Hi, I'm a data scientist
   <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp; 
 <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp; 
+<a href="https://pandas.pydata.org/" target="_blank"> 
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://opencv.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp;
+  
+  
+  
+  
 </p>
 
 
