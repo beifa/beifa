@@ -29,7 +29,7 @@ Hi, I'm a data scientist
 
 
 <!--Github stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beifa&show_icons=true&locale=en&layout=compact" alt="beifa" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beifa&show_icons=true&locale=en&layout=compact" alt="beifa" /></p> -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=beifa&show_icons=true&locale=en" alt="beifa" /></p>
 
 <!---
