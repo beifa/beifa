@@ -27,7 +27,6 @@ Hi, I'm a data scientist
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp;  
 </p>
 
-
 <!--Github stats -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beifa&show_icons=true&locale=en&layout=compact" alt="beifa" /></p> -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=beifa&count_private=true&show_icons=true&hide=contrib,issues,prs,contribs&theme=tokyonight&locale=en" alt="beifa" /></p>
