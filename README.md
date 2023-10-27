@@ -26,3 +26,5 @@ Hi, I'm a data scientist
 <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp;  
 </p>
+
+<img src="https://www.codewars.com/users/beifa/badges/large">
